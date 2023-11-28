@@ -3,7 +3,7 @@ package memfd_test
 import (
 	"fmt"
 
-	"github.com/justincormack/go-memfd"
+	"github.com/markbrown314/go-memfd"
 )
 
 func Example() {

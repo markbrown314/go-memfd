@@ -9,7 +9,7 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/justincormack/go-memfd/msyscall"
+	"github.com/markbrown314/go-memfd/msyscall"
 )
 
 var (
